@@ -11,7 +11,7 @@
 
 ![alt text][id]
 
-[id]: /path/to/img.jpg "Title"
+[id]: http://pp.myapp.com/ma_pic2/0/shot_42391053_3_1488499316/550 "Title"
 
 ## 插入互联网上图片
 
