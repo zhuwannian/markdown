@@ -49,7 +49,27 @@ Markdown 支持两种形式的链接语法： 行内链接 和 参考链接。
 [2]: https://dict.eudic.net/ "百度翻译"
 [3]: https://www.eudic.net/v4/en/app/eudic "《欧路词典》英语翻译软件"
 
+```markdown
 
+一直用 [百度][bd]，当知道 [搜狗][s] 可以搜索微信和知乎时，我慢慢爱上了 [搜狗][s] 这个功能。
+学术搜索还是用 [Google][g]。平时也会用 [Bing][b]，毕竟各有所长。
+
+[G]: https://www.google.com/ "Google"
+[BD]: https://www.baidu.com/ "Baidu Search"
+[S]: https://www.sogou.com/ "Sogou"
+[B]: https://cn.bing.com/ "Bing Search"
+
+```
+
+#### 显示效果：
+
+一直用 [百度][bd]，当知道 [搜狗][s] 可以搜索微信和知乎时，我慢慢爱上了 [搜狗][s] 这个功能。
+学术搜索还是用 [Google][g]。平时也会用 [Bing][b]，毕竟各有所长。
+
+[G]: https://www.google.com/ "Google"
+[BD]: https://www.baidu.com/ "Baidu Search"
+[S]: https://www.sogou.com/ "Sogou"
+[B]: https://cn.bing.com/ "Bing Search"
 
 
 #### 代码（直接复制以下即可）：
