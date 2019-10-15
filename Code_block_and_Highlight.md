@@ -53,10 +53,10 @@ C语言里的函数 `scanf()` 怎么使用？
 
 ```markdown
 
-```python
-#!/usr/bin/env python3
-print("Hello, World!");
-```
+ ```python
+ #!/usr/bin/env python3
+ print("Hello, World!");
+ ```
 
 
 ```
@@ -71,8 +71,11 @@ print("Hello, World!");
 ## 缩进式插入多行代码
 
 >注意：
+
 >缩进式插入前方必须有空行；
+
 >缩进 4 个空格或是 1 个制表符；
+
 >一个代码区块会一直持续到没有缩进的那一行（或是文件结尾）。
 
 ### 代码（直接复制以下即可）：
