@@ -184,7 +184,7 @@ protected void onDestroy() {
 > 第一个引用文字
 > 第二个引用文字
 
-> 第二行引用文字  
+> 第二行引用文字（注意这个后面有两个空格）  
 > 第三行引用文字
 
 
@@ -207,7 +207,7 @@ protected void onDestroy() {
 
 
 
-```javascript
+```markdown
 
 # 在线markdown编辑器说明(这个是一级标题)
 
@@ -280,7 +280,7 @@ MacDown 下载地址：https://macdown.uranusjr.com/
 
       - ___特别强调___  (示例：粗斜体)
 
-### 代码
+### 单行部分代码
    * `<hello world>`
 ### 代码块高亮
 ```
@@ -391,7 +391,7 @@ protected void onDestroy() {
 > 第一个引用文字
 > 第二个引用文字
 
-> 第二行引用文字  
+> 第二行引用文字（注意这个后面有两个空格）  
 > 第三行引用文字
 
 
