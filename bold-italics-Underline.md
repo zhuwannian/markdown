@@ -85,6 +85,36 @@ un**frigging**believable
 下标：H<sub>2</sub>O
 
 
+## 下划线
+
+### 代码（直接复制以下即可）：
+
+```markdown
+
+<u>下划线 underline</u>
+
+用数学公式：
+
+下划线 $\underline{X}$
+
+上划线 $\overline{X}$
+
+```
+
+<u>下划线 underline</u>
+
+用数学公式：
+
+下划线 $\underline{X}$
+
+上划线 $\overline{X}$
+
+
+
+
+### 显示效果：
+
+
 
 ### 代码（直接复制以下即可）：
 
