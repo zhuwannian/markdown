@@ -30,6 +30,25 @@
 
 ### 强调也可以直接插在文字中间：
 
+### 代码（直接复制以下即可）：
+
+```markdown
+
+un**frigging**believable
+
+```
+
+### 显示效果：
+
+un**frigging**believable
+
+
+
+
+
+
+
+### 代码（直接复制以下即可）：
 
 ```markdown
 
@@ -37,9 +56,5 @@
 
 ```
 
+### 显示效果：
 
-```markdown
-
-
-
-```
