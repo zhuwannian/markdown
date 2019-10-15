@@ -3,11 +3,30 @@
 图片的语法和链接很像。 alt text 是替换文本；alt 属性规定在图像无法显示时的替代文本。虽然 alt text 可以不填，但推荐还是填上。 Title 是可选项。
 
 ## 行内形式
+### 代码（直接复制以下即可）：
+```markdown
+
+![alt text](http://pp.myapp.com/ma_pic2/0/shot_42391053_3_1488499316/550 "Title")
+
+```
+
+### 显示效果：
 
 ![alt text](http://pp.myapp.com/ma_pic2/0/shot_42391053_3_1488499316/550 "Title")
 
 
 ## 参考形式
+
+### 代码（直接复制以下即可）：
+```markdown
+
+![alt text][id]
+
+[id]: http://pp.myapp.com/ma_pic2/0/shot_42391053_3_1488499316/550 "Title"
+
+```
+
+### 显示效果：
 
 ![alt text][id]
 
