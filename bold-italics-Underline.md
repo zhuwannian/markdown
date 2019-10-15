@@ -264,7 +264,7 @@ un**frigging**believable
 
 #### 代码（直接复制以下即可）：
 
-```markdown
+```html
 
 \*this text is surrounded by literal asterisks\*
 
