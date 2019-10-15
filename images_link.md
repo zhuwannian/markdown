@@ -61,16 +61,15 @@ MarkDown 中显示图片的语法是 `![图片描述](图片地址)` 。但是�
 ### 代码（直接复制以下即可）：
 
 ```markdown
-<div align=center>![alt text](/path/to/img.jpg "Title")
-<div align=right>![alt text](/path/to/img.jpg "Title")
+<div align=center>![alt text](http://pp.myapp.com/ma_pic2/0/shot_42391053_1_1488499316/550 "Title")
+<div align=right>![alt text](http://pp.myapp.com/ma_pic2/0/shot_42391053_1_1488499316/550 "Title")
 ```
 
 ### 显示效果：
 
-<div align=center>![alt text](/path/to/img.jpg "Title")
-<div align=right>![alt text](/path/to/img.jpg "Title")
 
-多张图片可以这样写：
+
+## 多张图片可以这样写：
 
 ### 代码（直接复制以下即可）：
 ```markdown
