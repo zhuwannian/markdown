@@ -113,6 +113,28 @@ un**frigging**believable
 上划线 $\overline{X}$
 
 
+## 个性化下划线，可以使用 html 的 span 标签、设置行内 CSS 的 border-bottom 属性来添加下划线。这种方式自定义程度最高。
+
+### 代码（直接复制以下即可）：
+
+```markdown
+
+<span style="border-bottom: 2px dashed red;">下划虚线</span>
+
+```
+
+### 显示效果：
+
+<span style="border-bottom: 2px dashed red;">下划虚线</span>
+
+
+
+
+
+
+
+
+
 
 ### 代码（直接复制以下即可）：
 
