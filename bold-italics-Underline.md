@@ -89,7 +89,7 @@ un**frigging**believable
 
 ### 代码（直接复制以下即可）：
 
-```markdown
+```html
 
 <u>下划线 underline</u>
 
@@ -101,6 +101,9 @@ un**frigging**believable
 
 ```
 
+
+### 显示效果：
+
 <u>下划线 underline</u>
 
 用数学公式：
@@ -108,11 +111,6 @@ un**frigging**believable
 下划线 $\underline{X}$
 
 上划线 $\overline{X}$
-
-
-
-
-### 显示效果：
 
 
 
