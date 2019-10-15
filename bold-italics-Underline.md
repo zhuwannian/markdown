@@ -240,6 +240,21 @@ un**frigging**believable
 
 &lsquo;&lsquo;&#8216;&#8216;&#8249;&lsaquo;&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&rsaquo;&#8250;&rsquo;&rsquo;&#8217;&#8217;
 
+### Emoji
+
+### 代码（直接复制以下即可）：
+
+```markdown
+
+Smileys & People
+
+```
+
+### 显示效果：
+
+Smileys & People
+
+
 
 
 ### 代码（直接复制以下即可）：
