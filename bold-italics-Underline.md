@@ -246,16 +246,29 @@ un**frigging**believable
 
 ```markdown
 
-:hearts:
-:smiley:
+我:hearts:你:smiley:
 
 ```
 
 ### 显示效果：
 
-:hearts:
-:smiley:
+我:hearts:你:smiley:
 
+### 插入普通的符号
+
+如果要在文字前后直接插入普通的星号或底线，你可以用反斜线：
+
+### 代码（直接复制以下即可）：
+
+```markdown
+
+\*this text is surrounded by literal asterisks\*
+
+```
+
+### 显示效果：
+
+\*this text is surrounded by literal asterisks\*
 
 
 
