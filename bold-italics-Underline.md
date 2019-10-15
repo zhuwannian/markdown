@@ -121,17 +121,76 @@ un**frigging**believable
 
 <span style="border-bottom: 2px dashed red;">下划虚线</span>
 
+<span style="border-bottom: 1px solid red;">单下划线</span>
+
+<span style="border-bottom: thick double #32a1ce;">双下划线</span>
+
+<span style="border-bottom: 2px dotted red;">下划虚线</span>
+
+### Markdown 无法表现中文的着重号 ```．```，实在是没有办法的办法：
+
+<span style="border-bottom: 8px dotted red;">假冒着重号</span>
+
 ```
 
 ### 显示效果：
 
 <span style="border-bottom: 2px dashed red;">下划虚线</span>
 
+<span style="border-bottom: 1px solid red;">单下划线</span>
+
+<span style="border-bottom: thick double #32a1ce;">双下划线</span>
+
+<span style="border-bottom: 2px dotted red;">下划虚线</span>
+
+### Markdown 无法表现中文的着重号 ．，实在是没有办法的办法：
+
+<span style="border-bottom: 8px dotted red;">假冒着重号</span>
 
 
+## 添加注音
+### ruby 语法说明
+
+* <ruby> — 用它将需要注释或注音标的文字内容包围住。
+* <rt> — 这里面放置音标或注释，这个标记要跟在需要注释的文本后边。rt 里的文字，对于横向显示的文章，它会显示在上方。对于竖向显示的文字，它会显示到右边。
+* <rp> — 这个标记是防备那些不支持 ruby 标记的浏览器，主要用来放置括弧。对于支持这个标记的浏览器，rp 标记的 CSS 样式是 {display:none;}，也就是不可见。
 
 
+### 代码（直接复制以下即可）：
 
+```markdown
+
+<ruby>
+我<rp>（</rp><rt>wǒ</rt><rp>）</rp>
+爱<rp>（</rp><rt>ài</rt><rp>）</rp>
+你<rp>（</rp><rt>nǐ</rt><rp>）</rp>
+中<rp>（</rp><rt>zhōng</rt><rp>）</rp>
+国<rp>（</rp><rt>guó</rt><rp>）</rp>
+</ruby>
+
+#### 偷懒的写法：
+
+<ruby>
+我爱你中国<rt>wǒàinǐzhōngguó</rt>
+</ruby>
+
+```
+
+### 显示效果：
+
+<ruby>
+我<rp>（</rp><rt>wǒ</rt><rp>）</rp>
+爱<rp>（</rp><rt>ài</rt><rp>）</rp>
+你<rp>（</rp><rt>nǐ</rt><rp>）</rp>
+中<rp>（</rp><rt>zhōng</rt><rp>）</rp>
+国<rp>（</rp><rt>guó</rt><rp>）</rp>
+</ruby>
+
+#### 偷懒的写法：
+
+<ruby>
+我爱你中国<rt>wǒàinǐzhōngguó</rt>
+</ruby>
 
 
 
