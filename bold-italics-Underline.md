@@ -119,6 +119,8 @@ un**frigging**believable
 
 ```markdown
 
+<span style="border-bottom:2px dashed yellow;">所添加的需要加下划线的行内文字</span>
+
 <span style="border-bottom: 2px dashed red;">下划虚线</span>
 
 <span style="border-bottom: 1px solid red;">单下划线</span>
@@ -134,6 +136,8 @@ un**frigging**believable
 ```
 
 ### 显示效果：
+
+<span style="border-bottom:2px dashed yellow;">所添加的需要加下划线的行内文字</span>
 
 <span style="border-bottom: 2px dashed red;">下划虚线</span>
 
@@ -258,19 +262,47 @@ un**frigging**believable
 
 如果要在文字前后直接插入普通的星号或底线，你可以用反斜线：
 
-### 代码（直接复制以下即可）：
+#### 代码（直接复制以下即可）：
 
 ```markdown
 
 \*this text is surrounded by literal asterisks\*
 
+Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的符号：
+
+\   反斜线
+`   反引号
+*   星号
+_   底线
+{}  花括号
+[]  方括号
+()  括弧
+#   井字号
++   加号
+-   减号
+.   英文句点
+!   惊叹号
+
 ```
 
-### 显示效果：
+#### 显示效果：
 
 \*this text is surrounded by literal asterisks\*
 
+Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的符号：
 
+\   反斜线
+`   反引号
+*   星号
+_   底线
+{}  花括号
+[]  方括号
+()  括弧
+#   井字号
++   加号
+-   减号
+.   英文句点
+!   惊叹号
 
 ### 代码（直接复制以下即可）：
 
