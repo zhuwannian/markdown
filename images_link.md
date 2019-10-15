@@ -59,7 +59,8 @@ MarkDown 中显示图片的语法是 `![图片描述](图片地址)` 。但是�
 单张图片：
 
 ### 代码（直接复制以下即可）：
-···markdown
+
+```markdown
 <div align=center>![alt text](/path/to/img.jpg "Title")
 <div align=right>![alt text](/path/to/img.jpg "Title")
 ```
@@ -72,7 +73,7 @@ MarkDown 中显示图片的语法是 `![图片描述](图片地址)` 。但是�
 多张图片可以这样写：
 
 ### 代码（直接复制以下即可）：
-···markdown
+```markdown
 <div align="center">
 
 <img src="http://pp.myapp.com/ma_pic2/0/shot_42391053_1_1488499316/550" height="330" width="190" >
