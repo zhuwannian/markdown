@@ -54,6 +54,7 @@ un**frigging**believable
 ```markdown
 
 不是** 把学的东西用起来 **，
+
 而是** 为了用而学**！
 
 ```
@@ -61,6 +62,7 @@ un**frigging**believable
 ### 显示效果：
 
 不是** 把学的东西用起来 **，
+
 而是** 为了用而学**！
 
 
@@ -71,6 +73,7 @@ un**frigging**believable
 ```markdown
 
 上标：O<sup>2</sup>
+
 下标：H<sub>2</sub>O
 
 ```
@@ -78,6 +81,7 @@ un**frigging**believable
 ### 显示效果：
 
 上标：O<sup>2</sup>
+
 下标：H<sub>2</sub>O
 
 
