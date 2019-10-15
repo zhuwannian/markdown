@@ -4,7 +4,7 @@
 
 ## 行内形式
 
-![alt text](/path/to/img.jpg "Title")
+![alt text](http://pp.myapp.com/ma_pic2/0/shot_42391053_3_1488499316/550 "Title")
 
 
 ## 参考形式
