@@ -233,29 +233,12 @@ un**frigging**believable
 
 ```markdown
 
-                                                       	&lsquo;
-                                                       		&lsquo;
-                                                       			&#8216;
-                                                       				&#8216;
-&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&rsaquo;&#8250;
-																	&rsquo;
-																&rsquo;
-															&#8217;
-														&#8217;
-
+&lsquo;&lsquo;&#8216;&#8216;&#8249;&lsaquo;&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&rsaquo;&#8250;&rsquo;&rsquo;&#8217;&#8217;
 ```
 
 ### 显示效果：
 
-                                                       	&lsquo;
-                                                       		&lsquo;
-                                                       			&#8216;
-                                                       				&#8216;
-&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&rsaquo;&#8250;
-																	&rsquo;
-																&rsquo;
-															&#8217;
-														&#8217;
+&lsquo;&lsquo;&#8216;&#8216;&#8249;&lsaquo;&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&rsaquo;&#8250;&rsquo;&rsquo;&#8217;&#8217;
 
 
 
