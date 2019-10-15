@@ -67,7 +67,9 @@ MarkDown 中显示图片的语法是 `![图片描述](图片地址)` 。但是�
 
 ### 显示效果：
 
+<div align=center>![alt text](http://pp.myapp.com/ma_pic2/0/shot_42391053_1_1488499316/550 "Title")
 
+<div align=right>![alt text](http://pp.myapp.com/ma_pic2/0/shot_42391053_1_1488499316/550 "Title")
 
 ## 多张图片可以这样写：
 
