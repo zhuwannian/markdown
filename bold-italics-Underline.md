@@ -196,7 +196,7 @@ un**frigging**believable
 我爱你中国<rt>wǒàinǐzhōngguó</rt>
 </ruby>
 
-## 使用特殊符号
+## 使用特殊符号 [常用特殊符号大全](http://www.fhdq.net/ "常用特殊符号大全")
 ### 写作的时候，也可以灵活运用一些其他特殊符号：
 
 > 根据个人喜好选择使用，喜欢简单希望节约时间的朋友，可以不用搞得那么复杂！
@@ -231,7 +231,7 @@ un**frigging**believable
 
 ```
 
-### HTML 中的特殊符号
+### HTML 中的特殊符号[HTML特殊符号大全](https://www.w3school.com.cn/tags/html_ref_symbols.html)
 
 ### 代码（直接复制以下即可）：
 
@@ -244,7 +244,7 @@ un**frigging**believable
 
 &lsquo;&lsquo;&#8216;&#8216;&#8249;&lsaquo;&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&Theta;&rsaquo;&#8250;&rsquo;&rsquo;&#8217;&#8217;
 
-### Emoji
+### Emoji[Emoji大全](https://emojipedia.org/)
 
 ### 代码（直接复制以下即可）：
 
