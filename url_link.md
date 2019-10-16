@@ -92,4 +92,4 @@ Markdown 支持以比较简短的自动链接形式来处理网址和电子邮�
 <zhu_wannian@163.com>
 
 
-<a href="http://askunix.top/" target="_blank">跳到自己博客列表</a>
+<a href="https://www.google.com/" target="_blank">谷歌</a>
